@@ -1,4 +1,4 @@
-# Javascript Assignment Accordian
+# Javascript Assignment Nameconversion
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 
