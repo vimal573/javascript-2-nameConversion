@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Name Conversion [Live Link](https://accordian-js.netlify.app/)
+## Name Conversion [Live Link](https://name-conversion-js.netlify.app/)
 
 - Skills Gained in this project
 
